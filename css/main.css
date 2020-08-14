@@ -1,3 +1,5 @@
 .lists {
     flex: flex; 
+    flex-wrap: flex;
+    margin: 1em; 
 }
