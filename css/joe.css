@@ -14,7 +14,16 @@ nav {
 }
 
 footer {
-    
+    display: flex;
+    background-color: lightgrey;
+
+}
+
+.social-icon {
+    width: 100%
+}
+.social {
+    width: 50px;
 }
 
 /* #email {
