@@ -1,0 +1,31 @@
+nav {
+    display: flex;
+    background-color: turquoise;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.nav {
+    /* flex-basis: 25%; */
+    width: 15%;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: tomato;
+}
+
+footer {
+    display: flex;
+    background-color: lightgrey;
+
+}
+
+.social-icon {
+    width: 100%
+}
+.social {
+    width: 50px;
+}
+
+/* #email {
+    border 
+} */
