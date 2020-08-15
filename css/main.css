@@ -16,3 +16,8 @@
         align-content: space-around; 
     }
 
+.mainImage {
+    max-width: 50%;
+    height: 50%;
+
+}
