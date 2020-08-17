@@ -26,6 +26,7 @@ footer {
     width: 50px;
 }
 
-/* #email {
-    border 
-} */
+.current {
+
+    background-color:grey;
+}
