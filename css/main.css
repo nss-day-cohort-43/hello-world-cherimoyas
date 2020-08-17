@@ -1,6 +1,77 @@
 
+.indexBody {
+    background-color: white;
+}
+
+.nav-index {
+    background-color: 5c5c8a;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+      float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.slogan-box {
+    display; flex;
+    flex-wrap: flex;
+    background: black;
+    height: 75px;
+    padding: 15px; 
+}
+
+.explore {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    margin: 0px;
+    padding: 15px;
+}
+
+.travel {
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.index-image-row {
+    flex: flex;
+    padding: 2px, 1px;
+}
+
 .lists {
-    display:flex; 
+    display: flex; 
     flex-wrap: wrap;
     justify-content: space-around;
     align-content: space-around;
@@ -16,3 +87,16 @@
         align-content: space-around; 
     }
 
+.row {
+    display: flex;
+    flex: wrap;
+    }
+    
+.column {
+    flex: flex;
+    padding: 1px;
+    } 
+
+.index-footer {
+    background-color: 5c5c8a;
+}
