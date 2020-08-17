@@ -3,6 +3,36 @@
     background-color: white;
 }
 
+.nav-index {
+    background-color: 5c5c8a;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+      float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+
 .logo {
     display: block;
     margin-left: auto;
@@ -10,7 +40,7 @@
     width: 50%;
 }
 
-.sloganBox {
+.slogan-box {
     display; flex;
     flex-wrap: flex;
     background: black;
@@ -35,7 +65,7 @@
     margin: 5px;
 }
 
-.mainImageRow {
+.index-image-row {
     flex: flex;
     padding: 2px, 1px;
 }
@@ -67,3 +97,6 @@
     padding: 1px;
     } 
 
+.index-footer {
+    background-color: 5c5c8a;
+}
