@@ -26,7 +26,8 @@ footer {
     background-color: lightgrey;
     justify-content: space-around;
     align-items: center;
-    padding: 5px;
+    margin: 15px 0px 0px 0px;
+    padding: 3px;
 }
 
 .social-icon {
