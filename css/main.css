@@ -1,10 +1,14 @@
 
 
 .logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    /* display: block; */
+    /* margin-left: auto;
+    margin-right: auto; */
+    width: 25%;
+}
+
+.logo-image {
+    width: 100%;
 }
 
 .slogan-box {
