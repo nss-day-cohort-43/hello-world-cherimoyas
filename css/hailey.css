@@ -11,8 +11,8 @@
 
     .listcard {
         flex-basis: 30%;  /* Make each child element the same width */
-        border: 3px dotted goldenrod;
-        background-color: thistle;
+        border: 3px solid darkslateblue;
+        background-color: lightskyblue ;
         padding: .6em;
         text-align: left;
         align-content: space-around; 
@@ -25,4 +25,8 @@
 
 .country-img {
     width: 100%;
+}
+
+.names {
+    text-align: center;
 }

@@ -1,7 +1,7 @@
 nav {
     display: flex;
-    background-color: turquoise;
     justify-content: space-around;
+    align-items: center ;
     padding: 10px;
 }
 
@@ -10,13 +10,23 @@ nav {
     width: 15%;
     margin-left: 5px;
     margin-right: 5px;
-    background-color: tomato;
+    background-color: #6B8E23;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
 }
 
 footer {
     display: flex;
     background-color: lightgrey;
-
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
 }
 
 .social-icon {
@@ -29,4 +39,8 @@ footer {
 .current {
 
     background-color:grey;
+}
+
+#email {
+    color: olivedrab; 
 }
