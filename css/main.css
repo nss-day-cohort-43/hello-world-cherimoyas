@@ -7,7 +7,7 @@
     background-color: 5c5c8a;
 }
 
-ul {
+/* ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -16,8 +16,8 @@ ul {
   }
   
   li {
-      float: left;
-  }
+      float: left; */
+  /* } */
   
   li a {
     display: block;
@@ -41,7 +41,7 @@ ul {
 }
 
 .slogan-box {
-    display; flex;
+    display: flex;
     flex-wrap: flex;
     background: black;
     height: 75px;
